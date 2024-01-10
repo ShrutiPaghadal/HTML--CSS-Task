@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    background-color: #ffffcc;
+}
+
+h1{
+    color: #fffecb;
+    background-color: #990000;
+    text-align: center;
+    font-style: italic;
+    letter-spacing: 10px;
+    border-bottom: 10px solid #cc0000;
+}
+
+h2{
+    color: white;
+    background-color: #009900;
+    padding-left: 10px;
+}
+
+h3{
+    color: grey;
+}
+
+li{
+    color: #cc0000;
+    font-style: italic;
+}
+
+img{
+    border: 3px dotted grey;
+}
+
+table,th,td,tr{
+    border: 1px solid black;
+    background-color: rgb(168, 154, 154);
+}
+
+input,textarea,button{
+    background-color: white;
+}
